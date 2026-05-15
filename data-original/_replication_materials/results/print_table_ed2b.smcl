@@ -1,0 +1,256 @@
+{smcl}
+{txt}{sf}{ul off}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/davs/Dropbox/New_hard_drive/Documents/Research/evolution_cooperation/analysis/_nature_cond_accept/__for_publication/_replication_materials//results/print_table_ed2b.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 7 Mar 2026, 06:05:01
+{txt}
+{com}. //_1
+. display %9.3f l1[1,1]
+{res}   -0.916
+{txt}
+{com}. //_2
+. display %9.3f l2[1,1]
+{res}   -0.973
+{txt}
+{com}. //_3
+. display %9.3f l3[1,1]
+{res}   -0.971
+{txt}
+{com}. //_4
+. display %9.3f l4[1,1]
+{res}   -1.072
+{txt}
+{com}. //_5
+. display %9.3f l5[1,1]
+{res}   -0.973
+{txt}
+{com}. //_6
+. display %9.3f l1[2,1]
+{res}    0.101
+{txt}
+{com}. //_7
+. display %9.3f l2[2,1]
+{res}    0.160
+{txt}
+{com}. //_8
+. display %9.3f l3[2,1]
+{res}    0.162
+{txt}
+{com}. //_9
+. display %9.3f l4[2,1]
+{res}    0.216
+{txt}
+{com}. //_10
+. display %9.3f l5[2,1]
+{res}    0.078
+{txt}
+{com}. //_11
+. display %9.4f pv1_1
+{res}p<0.0001
+{txt}
+{com}. //_12
+. display %9.4f pv2_1
+{res}p<0.0001
+{txt}
+{com}. //_13
+. display %9.4f pv3_1
+{res}p<0.0001
+{txt}
+{com}. //_14
+. display %9.4f pv4_1
+{res}p<0.0001
+{txt}
+{com}. //_15
+. display %9.4f pv5_1
+{res}p<0.0001
+{txt}
+{com}. //_16
+. display %9.3f l1[1,2]
+{res}    0.412
+{txt}
+{com}. //_17
+. display %9.3f l2[1,2]
+{res}   -0.881
+{txt}
+{com}. //_18
+. display %9.3f l3[1,2]
+{res}    6.540
+{txt}
+{com}. //_19
+. display %9.3f l4[1,2]
+{res}    8.393
+{txt}
+{com}. //_20
+. display %9.3f l5[1,2]
+{res}    1.897
+{txt}
+{com}. //_21
+. display %9.3f l1[2,2]
+{res}    0.538
+{txt}
+{com}. //_22
+. display %9.3f l2[2,2]
+{res}    0.944
+{txt}
+{com}. //_23
+. display %9.3f l3[2,2]
+{res}    1.236
+{txt}
+{com}. //_24
+. display %9.3f l4[2,2]
+{res}    1.892
+{txt}
+{com}. //_25
+. display %9.3f l5[2,2]
+{res}    0.483
+{txt}
+{com}. //_26
+. display %9.4f pv1_2
+{res}p=0.4437
+{txt}
+{com}. //_27
+. display %9.4f pv2_2
+{res}p=0.3507
+{txt}
+{com}. //_28
+. display %9.4f pv3_2
+{res}p<0.0001
+{txt}
+{com}. //_29
+. display %9.4f pv4_2
+{res}p<0.0001
+{txt}
+{com}. //_30
+. display %9.4f pv5_2
+{res}p<0.0001
+{txt}
+{com}. //_31
+. display %9.3f m1[1,2]
+{res}    1.328
+{txt}
+{com}. //_32
+. display %9.3f m2[1,2]
+{res}    0.092
+{txt}
+{com}. //_33
+. display %9.3f m3[1,2]
+{res}    7.510
+{txt}
+{com}. //_34
+. display %9.3f m4[1,2]
+{res}    9.465
+{txt}
+{com}. //_35
+. display %9.3f m5[1,2]
+{res}    2.870
+{txt}
+{com}. //_36
+. display %9.3f m1[2,2]
+{res}    0.639
+{txt}
+{com}. //_37
+. display %9.3f m2[2,2]
+{res}    1.104
+{txt}
+{com}. //_38
+. display %9.3f m3[2,2]
+{res}    1.398
+{txt}
+{com}. //_39
+. display %9.3f m4[2,2]
+{res}    2.108
+{txt}
+{com}. //_40
+. display %9.3f m5[2,2]
+{res}    0.561
+{txt}
+{com}. //_41
+. display %9.4f pv1_3
+{res}p=0.0377
+{txt}
+{com}. //_42
+. display %9.4f pv2_3
+{res}p=0.9335
+{txt}
+{com}. //_43
+. display %9.4f pv3_3
+{res}p<0.0001
+{txt}
+{com}. //_44
+. display %9.4f pv4_3
+{res}p<0.0001
+{txt}
+{com}. //_45
+. display %9.4f pv5_3
+{res}p<0.0001
+{txt}
+{com}. //_46
+. display %12.0gc ng1
+{res}       1,026
+{txt}
+{com}. //_47
+. display %12.0gc ng2
+{res}         741
+{txt}
+{com}. //_48
+. display %12.0gc ng3
+{res}         462
+{txt}
+{com}. //_49
+. display %12.0gc ng4
+{res}         197
+{txt}
+{com}. //_50
+. display %12.0gc ng5
+{res}       1,026
+{txt}
+{com}. //_51
+. display %12.0gc n1
+{res}       6,494
+{txt}
+{com}. //_52
+. display %12.0gc n2
+{res}       5,108
+{txt}
+{com}. //_53
+. display %12.0gc n3
+{res}       3,994
+{txt}
+{com}. //_54
+. display %12.0gc n4
+{res}       1,922
+{txt}
+{com}. //_55
+. display %12.0gc n5
+{res}      17,518
+{txt}
+{com}. //_56
+. display %9.4f rsq1
+{res}   0.0013
+{txt}
+{com}. //_57
+. display %9.4f rsq2
+{res}   0.0000
+{txt}
+{com}. //_58
+. display %9.4f rsq3
+{res}   0.0183
+{txt}
+{com}. //_59
+. display %9.4f rsq4
+{res}   0.0261
+{txt}
+{com}. //_60
+. display %9.4f rsq5
+{res}   0.0040
+{txt}
+{com}. //_^
+. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/Users/davs/Dropbox/New_hard_drive/Documents/Research/evolution_cooperation/analysis/_nature_cond_accept/__for_publication/_replication_materials//results/print_table_ed2b.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res} 7 Mar 2026, 06:05:01
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}

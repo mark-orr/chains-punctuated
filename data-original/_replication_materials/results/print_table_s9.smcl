@@ -1,0 +1,592 @@
+{smcl}
+{txt}{sf}{ul off}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/davs/Dropbox/New_hard_drive/Documents/Research/evolution_cooperation/analysis/_nature_cond_accept/__for_publication/_replication_materials//results/print_table_s9.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 7 Mar 2026, 06:05:28
+{txt}
+{com}. //_1
+. display %9.3f m1[1,1]
+{res}    0.828
+{txt}
+{com}. //_2
+. display %9.3f m2[1,1]
+{res}   -0.684
+{txt}
+{com}. //_3
+. display %9.3f m3[1,1]
+{res}   -1.995
+{txt}
+{com}. //_4
+. display %9.3f m4[1,1]
+{res}    0.130
+{txt}
+{com}. //_5
+. display %9.3f m1[2,1]
+{res}    0.704
+{txt}
+{com}. //_6
+. display %9.3f m2[2,1]
+{res}    0.506
+{txt}
+{com}. //_7
+. display %9.3f m3[2,1]
+{res}    1.342
+{txt}
+{com}. //_8
+. display %9.3f m4[2,1]
+{res}    0.564
+{txt}
+{com}. //_9
+. display %9.4f pv1_1
+{res}p=0.2394
+{txt}
+{com}. //_10
+. display %9.4f pv2_1
+{res}p=0.1766
+{txt}
+{com}. //_11
+. display %9.4f pv3_1
+{res}p=0.1373
+{txt}
+{com}. //_12
+. display %9.4f pv4_1
+{res}p=0.8180
+{txt}
+{com}. //_13
+. display %9.3f m1[1,2]
+{res}   -0.389
+{txt}
+{com}. //_14
+. display %9.3f m2[1,2]
+{res}   -1.467
+{txt}
+{com}. //_15
+. display %9.3f m3[1,2]
+{res}   -1.023
+{txt}
+{com}. //_16
+. display %9.3f m4[1,2]
+{res}   -1.690
+{txt}
+{com}. //_17
+. display %9.3f m1[2,2]
+{res}    0.326
+{txt}
+{com}. //_18
+. display %9.3f m2[2,2]
+{res}    0.341
+{txt}
+{com}. //_19
+. display %9.3f m3[2,2]
+{res}    0.541
+{txt}
+{com}. //_20
+. display %9.3f m4[2,2]
+{res}    0.466
+{txt}
+{com}. //_21
+. display %9.4f pv1_2
+{res}p=0.2325
+{txt}
+{com}. //_22
+. display %9.4f pv2_2
+{res}p<0.0001
+{txt}
+{com}. //_23
+. display %9.4f pv3_2
+{res}p=0.0588
+{txt}
+{com}. //_24
+. display %9.4f pv4_2
+{res}p=0.0003
+{txt}
+{com}. //_25
+. display %9.3f m1[1,3]
+{res}   -0.686
+{txt}
+{com}. //_26
+. display %9.3f m2[1,3]
+{res}   -0.121
+{txt}
+{com}. //_27
+. display %9.3f m3[1,3]
+{res}    1.714
+{txt}
+{com}. //_28
+. display %9.3f m4[1,3]
+{res}    2.020
+{txt}
+{com}. //_29
+. display %9.3f m1[2,3]
+{res}    0.567
+{txt}
+{com}. //_30
+. display %9.3f m2[2,3]
+{res}    0.856
+{txt}
+{com}. //_31
+. display %9.3f m3[2,3]
+{res}    1.023
+{txt}
+{com}. //_32
+. display %9.3f m4[2,3]
+{res}    1.253
+{txt}
+{com}. //_33
+. display %9.4f pv1_3
+{res}p=0.2266
+{txt}
+{com}. //_34
+. display %9.4f pv2_3
+{res}p=0.8873
+{txt}
+{com}. //_35
+. display %9.4f pv3_3
+{res}p=0.0940
+{txt}
+{com}. //_36
+. display %9.4f pv4_3
+{res}p=0.1069
+{txt}
+{com}. //_37
+. display %9.3f m1[1,4]
+{res}   -1.418
+{txt}
+{com}. //_38
+. display %9.3f m2[1,4]
+{res}    0.020
+{txt}
+{com}. //_39
+. display %9.3f m3[1,4]
+{res}   -3.745
+{txt}
+{com}. //_40
+. display %9.3f m4[1,4]
+{res}   -1.492
+{txt}
+{com}. //_41
+. display %9.3f m1[2,4]
+{res}    1.132
+{txt}
+{com}. //_42
+. display %9.3f m2[2,4]
+{res}    1.790
+{txt}
+{com}. //_43
+. display %9.3f m3[2,4]
+{res}    1.951
+{txt}
+{com}. //_44
+. display %9.3f m4[2,4]
+{res}    2.782
+{txt}
+{com}. //_45
+. display %9.4f pv1_4
+{res}p=0.2104
+{txt}
+{com}. //_46
+. display %9.4f pv2_4
+{res}p=0.9909
+{txt}
+{com}. //_47
+. display %9.4f pv3_4
+{res}p=0.0552
+{txt}
+{com}. //_48
+. display %9.4f pv4_4
+{res}p=0.5918
+{txt}
+{com}. //_49
+. display %9.3f m1[1,5]
+{res}    0.314
+{txt}
+{com}. //_50
+. display %9.3f m2[1,5]
+{res}    0.545
+{txt}
+{com}. //_51
+. display %9.3f m3[1,5]
+{res}    0.812
+{txt}
+{com}. //_52
+. display %9.3f m4[1,5]
+{res}    1.160
+{txt}
+{com}. //_53
+. display %9.3f m1[2,5]
+{res}    0.200
+{txt}
+{com}. //_54
+. display %9.3f m2[2,5]
+{res}    0.210
+{txt}
+{com}. //_55
+. display %9.3f m3[2,5]
+{res}    0.320
+{txt}
+{com}. //_56
+. display %9.3f m4[2,5]
+{res}    0.365
+{txt}
+{com}. //_57
+. display %9.4f pv1_5
+{res}p=0.1167
+{txt}
+{com}. //_58
+. display %9.4f pv2_5
+{res}p=0.0094
+{txt}
+{com}. //_59
+. display %9.4f pv3_5
+{res}p=0.0112
+{txt}
+{com}. //_60
+. display %9.4f pv4_5
+{res}p=0.0015
+{txt}
+{com}. //_61
+. display %9.3f m1[1,6]
+{res}    0.270
+{txt}
+{com}. //_62
+. display %9.3f m2[1,6]
+{res}   -3.218
+{txt}
+{com}. //_63
+. display %9.3f m3[1,6]
+{res}    1.484
+{txt}
+{com}. //_64
+. display %9.3f m4[1,6]
+{res}   -3.095
+{txt}
+{com}. //_65
+. display %9.3f m1[2,6]
+{res}    1.090
+{txt}
+{com}. //_66
+. display %9.3f m2[2,6]
+{res}    1.184
+{txt}
+{com}. //_67
+. display %9.3f m3[2,6]
+{res}    1.909
+{txt}
+{com}. //_68
+. display %9.3f m4[2,6]
+{res}    1.278
+{txt}
+{com}. //_69
+. display %9.4f pv1_6
+{res}p=0.8044
+{txt}
+{com}. //_70
+. display %9.4f pv2_6
+{res}p=0.0066
+{txt}
+{com}. //_71
+. display %9.4f pv3_6
+{res}p=0.4369
+{txt}
+{com}. //_72
+. display %9.4f pv4_6
+{res}p=0.0154
+{txt}
+{com}. //_73
+. display %9.3f m1[1,7]
+{res}   -0.324
+{txt}
+{com}. //_74
+. display %9.3f m2[1,7]
+{res}    0.933
+{txt}
+{com}. //_75
+. display %9.3f m3[1,7]
+{res}   -1.759
+{txt}
+{com}. //_76
+. display %9.3f m4[1,7]
+{res}    1.199
+{txt}
+{com}. //_77
+. display %9.3f m1[2,7]
+{res}    0.824
+{txt}
+{com}. //_78
+. display %9.3f m2[2,7]
+{res}    0.971
+{txt}
+{com}. //_79
+. display %9.3f m3[2,7]
+{res}    1.511
+{txt}
+{com}. //_80
+. display %9.3f m4[2,7]
+{res}    1.006
+{txt}
+{com}. //_81
+. display %9.4f pv1_7
+{res}p=0.6947
+{txt}
+{com}. //_82
+. display %9.4f pv2_7
+{res}p=0.3368
+{txt}
+{com}. //_83
+. display %9.4f pv3_7
+{res}p=0.2445
+{txt}
+{com}. //_84
+. display %9.4f pv4_7
+{res}p=0.2332
+{txt}
+{com}. //_85
+. display %9.3f m1[1,8]
+{res}    0.243
+{txt}
+{com}. //_86
+. display %9.3f m2[1,8]
+{res}    1.047
+{txt}
+{com}. //_87
+. display %9.3f m3[1,8]
+{res}    1.108
+{txt}
+{com}. //_88
+. display %9.3f m4[1,8]
+{res}    2.397
+{txt}
+{com}. //_89
+. display %9.3f m1[2,8]
+{res}    1.065
+{txt}
+{com}. //_90
+. display %9.3f m2[2,8]
+{res}    1.143
+{txt}
+{com}. //_91
+. display %9.3f m3[2,8]
+{res}    1.666
+{txt}
+{com}. //_92
+. display %9.3f m4[2,8]
+{res}    1.256
+{txt}
+{com}. //_93
+. display %9.4f pv1_8
+{res}p=0.8193
+{txt}
+{com}. //_94
+. display %9.4f pv2_8
+{res}p=0.3597
+{txt}
+{com}. //_95
+. display %9.4f pv3_8
+{res}p=0.5059
+{txt}
+{com}. //_96
+. display %9.4f pv4_8
+{res}p=0.0562
+{txt}
+{com}. //_97
+. display %9.3f m1[1,9]
+{res}   -0.107
+{txt}
+{com}. //_98
+. display %9.3f m2[1,9]
+{res}   -0.990
+{txt}
+{com}. //_99
+. display %9.3f m3[1,9]
+{res}   -0.967
+{txt}
+{com}. //_100
+. display %9.3f m4[1,9]
+{res}   -1.849
+{txt}
+{com}. //_101
+. display %9.3f m1[2,9]
+{res}    0.641
+{txt}
+{com}. //_102
+. display %9.3f m2[2,9]
+{res}    0.904
+{txt}
+{com}. //_103
+. display %9.3f m3[2,9]
+{res}    1.063
+{txt}
+{com}. //_104
+. display %9.3f m4[2,9]
+{res}    0.996
+{txt}
+{com}. //_105
+. display %9.4f pv1_9
+{res}p=0.8674
+{txt}
+{com}. //_106
+. display %9.4f pv2_9
+{res}p=0.2732
+{txt}
+{com}. //_107
+. display %9.4f pv3_9
+{res}p=0.3630
+{txt}
+{com}. //_108
+. display %9.4f pv4_9
+{res}p=0.0633
+{txt}
+{com}. //_109
+. display %9.3f m1[1,10]
+{res}    0.101
+{txt}
+{com}. //_110
+. display %9.3f m2[1,10]
+{res}    0.338
+{txt}
+{com}. //_111
+. display %9.3f m3[1,10]
+{res}    0.316
+{txt}
+{com}. //_112
+. display %9.3f m4[1,10]
+{res}    0.596
+{txt}
+{com}. //_113
+. display %9.3f m1[2,10]
+{res}    0.264
+{txt}
+{com}. //_114
+. display %9.3f m2[2,10]
+{res}    0.422
+{txt}
+{com}. //_115
+. display %9.3f m3[2,10]
+{res}    0.546
+{txt}
+{com}. //_116
+. display %9.3f m4[2,10]
+{res}    0.557
+{txt}
+{com}. //_117
+. display %9.4f pv1_10
+{res}p=0.7027
+{txt}
+{com}. //_118
+. display %9.4f pv2_10
+{res}p=0.4234
+{txt}
+{com}. //_119
+. display %9.4f pv3_10
+{res}p=0.5636
+{txt}
+{com}. //_120
+. display %9.4f pv4_10
+{res}p=0.2846
+{txt}
+{com}. //_121
+. display %9.3f m1[1,14]
+{res}    0.703
+{txt}
+{com}. //_122
+. display %9.3f m2[1,14]
+{res}    0.207
+{txt}
+{com}. //_123
+. display %9.3f m3[1,14]
+{res}    1.342
+{txt}
+{com}. //_124
+. display %9.3f m4[1,14]
+{res}   -2.074
+{txt}
+{com}. //_125
+. display %9.3f m1[2,14]
+{res}    0.553
+{txt}
+{com}. //_126
+. display %9.3f m2[2,14]
+{res}    0.531
+{txt}
+{com}. //_127
+. display %9.3f m3[2,14]
+{res}    1.115
+{txt}
+{com}. //_128
+. display %9.3f m4[2,14]
+{res}    0.694
+{txt}
+{com}. //_129
+. display %9.4f pv1_14
+{res}p=0.2039
+{txt}
+{com}. //_130
+. display %9.4f pv2_14
+{res}p=0.6974
+{txt}
+{com}. //_131
+. display %9.4f pv3_14
+{res}p=0.2289
+{txt}
+{com}. //_132
+. display %9.4f pv4_14
+{res}p=0.0028
+{txt}
+{com}. //_133
+. display %12.0gc n1
+{res}       1,589
+{txt}
+{com}. //_134
+. display %12.0gc ng2
+{res}       1,589
+{txt}
+{com}. //_135
+. display %12.0gc n3
+{res}       1,589
+{txt}
+{com}. //_136
+. display %12.0gc ng4
+{res}       1,589
+{txt}
+{com}. //_137
+. display %12.0gc n1
+{res}       1,589
+{txt}
+{com}. //_138
+. display %12.0gc n2
+{res}      31,199
+{txt}
+{com}. //_139
+. display %12.0gc n3
+{res}       1,589
+{txt}
+{com}. //_140
+. display %12.0gc n4
+{res}      31,199
+{txt}
+{com}. //_141
+. display %9.4f rsq1
+{res}   0.1572
+{txt}
+{com}. //_142
+. display %9.4f rsq2
+{res}   0.1348
+{txt}
+{com}. //_143
+. display %9.4f rsq3
+{res}   0.2605
+{txt}
+{com}. //_144
+. display %9.4f rsq4
+{res}   0.1963
+{txt}
+{com}. //_^
+. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/Users/davs/Dropbox/New_hard_drive/Documents/Research/evolution_cooperation/analysis/_nature_cond_accept/__for_publication/_replication_materials//results/print_table_s9.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res} 7 Mar 2026, 06:05:28
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}

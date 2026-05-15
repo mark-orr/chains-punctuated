@@ -1,0 +1,12 @@
+
+
+|                                  ||| cycle 1           | cycle 2           | cycle 3           | cycle 4           |
+|:-------------------------------|-|-|------------------:|------------------:|------------------:|------------------:|
+| renew                            ||| `s %9.2f xt1_1`   | `s %9.2f xt2_1`   | `s %9.2f xt3_1`   | `s %9.2f xt4_1`   |
+| not renew paid full on time      ||| `s %9.2f xt1_2`   | `s %9.2f xt2_2`   | `s %9.2f xt3_2`   | `s %9.2f xt4_2`   |
+| not renew paid full late         ||| `s %9.2f xt1_3`   | `s %9.2f xt2_3`   | `s %9.2f xt3_3`   | `s %9.2f xt4_3`   |
+| not renew not paid full          ||| `s %9.2f xt1_4`   | `s %9.2f xt2_4`   | `s %9.2f xt3_4`   | `s %9.2f xt4_4`   |
+| truncated                        ||| `s %9.2f xt1_5`   | `s %9.2f xt2_5`   | `s %9.2f xt3_5`   | `s %9.2f xt4_5`   |
+| N groups                         ||| `s %9.0f N1`      | `s %9.0f N2`      | `s %9.0f N3`      | `s %9.0f N4`      |
+
+

@@ -1,0 +1,44 @@
+
+
+
+|                          ||| Cycle 1              | Cycle 2              | Cycle 3              | Cycle 4              | Cycle 5              | All                  |
+|:-----------------------|-|-|---------------------:|---------------------:|---------------------:|---------------------:|---------------------:|---------------------:|
+| Loan size*               ||| `s %9.3f mean1_1`    | `s %9.3f mean1_2`    | `s %9.3f mean1_3`    | `s %9.3f mean1_4`    | `s %9.3f mean1_5`    | `s %9.3f mean1_0`    |
+|                          ||| (`s %9.3f sd1_1`)    | (`s %9.3f sd1_2`)    | (`s %9.3f sd1_3`)    | (`s %9.3f sd1_4`)    | (`s %9.3f sd1_5`)    | (`s %9.3f sd1_0`)    |
+| Loan duration (months)   ||| `s %9.3f mean2_1`    | `s %9.3f mean2_2`    | `s %9.3f mean2_3`    | `s %9.3f mean2_4`    | `s %9.3f mean2_5`    | `s %9.3f mean2_0`    |
+|                          ||| (`s %9.3f sd2_1`)    | (`s %9.3f sd2_2`)    | (`s %9.3f sd2_3`)    | (`s %9.3f sd2_4`)    | (`s %9.3f sd2_5`)    | (`s %9.3f sd2_0`)    |
+| Group size               ||| `s %9.3f mean3_1`    | `s %9.3f mean3_2`    | `s %9.3f mean3_3`    | `s %9.3f mean3_4`    | `s %9.3f mean3_5`    | `s %9.3f mean3_0`    |
+|                          ||| (`s %9.3f sd3_1`)    | (`s %9.3f sd3_2`)    | (`s %9.3f sd3_3`)    | (`s %9.3f sd3_4`)    | (`s %9.3f sd3_5`)    | (`s %9.3f sd3_0`)    |
+| Female**                 ||| `s %9.3f mean4_1`    | `s %9.3f mean4_2`    | `s %9.3f mean4_3`    | `s %9.3f mean4_4`    | `s %9.3f mean4_5`    | `s %9.3f mean4_0`    |
+|                          ||| (`s %9.3f sd4_1`)    | (`s %9.3f sd4_2`)    | (`s %9.3f sd4_3`)    | (`s %9.3f sd4_4`)    | (`s %9.3f sd4_5`)    | (`s %9.3f sd4_0`)    |
+| Married**                ||| `s %9.3f mean5_1`    | `s %9.3f mean5_2`    | `s %9.3f mean5_3`    | `s %9.3f mean5_4`    | `s %9.3f mean5_5`    | `s %9.3f mean5_0`    |
+|                          ||| (`s %9.3f sd5_1`)    | (`s %9.3f sd5_2`)    | (`s %9.3f sd5_3`)    | (`s %9.3f sd5_4`)    | (`s %9.3f sd5_5`)    | (`s %9.3f sd5_0`)    |
+| Number of children*      ||| `s %9.3f mean6_1`    | `s %9.3f mean6_2`    | `s %9.3f mean6_3`    | `s %9.3f mean6_4`    | `s %9.3f mean6_5`    | `s %9.3f mean6_0`    |
+|                          ||| (`s %9.3f sd6_1`)    | (`s %9.3f sd6_2`)    | (`s %9.3f sd6_3`)    | (`s %9.3f sd6_4`)    | (`s %9.3f sd6_5`)    | (`s %9.3f sd6_0`)    |
+| Monthly sales*           ||| `s %9.3f mean7_1`    | `s %9.3f mean7_2`    | `s %9.3f mean7_3`    | `s %9.3f mean7_4`    | `s %9.3f mean7_5`    | `s %9.3f mean7_0`    |
+|                          ||| (`s %9.3f sd7_1`)    | (`s %9.3f sd7_2`)    | (`s %9.3f sd7_3`)    | (`s %9.3f sd7_4`)    | (`s %9.3f sd7_5`)    | (`s %9.3f sd7_0`)    |
+| Total bus. equity*       ||| `s %9.3f mean8_1`    | `s %9.3f mean8_2`    | `s %9.3f mean8_3`    | `s %9.3f mean8_4`    | `s %9.3f mean8_5`    | `s %9.3f mean8_0`    |
+|                          ||| (`s %9.3f sd8_1`)    | (`s %9.3f sd8_2`)    | (`s %9.3f sd8_3`)    | (`s %9.3f sd8_4`)    | (`s %9.3f sd8_5`)    | (`s %9.3f sd8_0`)    |
+| Petty trader**           ||| `s %9.3f mean9_1`    | `s %9.3f mean9_2`    | `s %9.3f mean9_3`    | `s %9.3f mean9_4`    | `s %9.3f mean9_5`    | `s %9.3f mean9_0`    |
+|                          ||| (`s %9.3f sd9_1`)    | (`s %9.3f sd9_2`)    | (`s %9.3f sd9_3`)    | (`s %9.3f sd9_4`)    | (`s %9.3f sd9_5`)    | (`s %9.3f sd9_0`)    |
+| Clothing**               ||| `s %9.3f mean10_1`   | `s %9.3f mean10_2`   | `s %9.3f mean10_3`   | `s %9.3f mean10_4`   | `s %9.3f mean10_5`   | `s %9.3f mean10_0`   |
+|                          ||| (`s %9.3f sd10_1`)   | (`s %9.3f sd10_2`)   | (`s %9.3f sd10_3`)   | (`s %9.3f sd10_4`)   | (`s %9.3f sd10_5`)   | (`s %9.3f sd10_0`)   |
+| Food**                   ||| `s %9.3f mean11_1`   | `s %9.3f mean11_2`   | `s %9.3f mean11_3`   | `s %9.3f mean11_4`   | `s %9.3f mean11_5`   | `s %9.3f mean11_0`   |
+|                          ||| (`s %9.3f sd11_1`)   | (`s %9.3f sd11_2`)   | (`s %9.3f sd11_3`)   | (`s %9.3f sd11_4`)   | (`s %9.3f sd11_5`)   | (`s %9.3f sd11_0`)   |
+| Single item**            ||| `s %9.3f mean12_1`   | `s %9.3f mean12_2`   | `s %9.3f mean12_3`   | `s %9.3f mean12_4`   | `s %9.3f mean12_5`   | `s %9.3f mean12_0`   |
+|                          ||| (`s %9.3f sd12_1`)   | (`s %9.3f sd12_2`)   | (`s %9.3f sd12_3`)   | (`s %9.3f sd12_4`)   | (`s %9.3f sd12_5`)   | (`s %9.3f sd12_0`)   |
+| Service**                ||| `s %9.3f mean13_1`   | `s %9.3f mean13_2`   | `s %9.3f mean13_3`   | `s %9.3f mean13_4`   | `s %9.3f mean13_5`   | `s %9.3f mean13_0`   |
+|                          ||| (`s %9.3f sd13_1`)   | (`s %9.3f sd13_2`)   | (`s %9.3f sd13_3`)   | (`s %9.3f sd13_4`)   | (`s %9.3f sd13_5`)   | (`s %9.3f sd13_0`)   |
+| Rainy season             ||| `s %9.3f mean14_1`   | `s %9.3f mean14_2`   | `s %9.3f mean14_3`   | `s %9.3f mean14_4`   | `s %9.3f mean14_5`   | `s %9.3f mean14_0`   |
+|                          ||| (`s %9.3f sd14_1`)   | (`s %9.3f sd14_2`)   | (`s %9.3f sd14_3`)   | (`s %9.3f sd14_4`)   | (`s %9.3f sd14_5`)   | (`s %9.3f sd14_0`)   |
+| City 1                   ||| `s %9.3f mean15_1`   | `s %9.3f mean15_2`   | `s %9.3f mean15_3`   | `s %9.3f mean15_4`   | `s %9.3f mean15_5`   | `s %9.3f mean15_0`   |
+| City 2                   ||| `s %9.3f mean16_1`   | `s %9.3f mean16_2`   | `s %9.3f mean16_3`   | `s %9.3f mean16_4`   | `s %9.3f mean16_5`   | `s %9.3f mean16_0`   |
+| City 3                   ||| `s %9.3f mean17_1`   | `s %9.3f mean17_2`   | `s %9.3f mean17_3`   | `s %9.3f mean17_4`   | `s %9.3f mean17_5`   | `s %9.3f mean17_0`   |
+| Other city               ||| `s %9.3f mean18_1`   | `s %9.3f mean18_2`   | `s %9.3f mean18_3`   | `s %9.3f mean18_4`   | `s %9.3f mean18_5`   | `s %9.3f mean18_0`   |
+| N loans disbursed        ||| `s %9.0gc n19_1`     | `s %9.0gc n19_2`     | `s %9.0gc n19_3`     | `s %9.0gc n19_4`     | `s %9.0gc n19_5`     | `s %9.0gc n19_0`     |
+| N repayment rounds       ||| `s %9.0gc n20_1`     | `s %9.0gc n20_2`     | `s %9.0gc n20_3`     | `s %9.0gc n20_4`     | `s %9.0gc n20_5`     | `s %9.0gc n20_0`     |
+
+\*Average per group member. \*\*Proportion of the group with the correspoding characteristic or engaged in the corresponding business type. Rainy season indicates the number of repayment rounds occuring
+during rainy season in Sierra Leone (approximately May to November each year).
+
+

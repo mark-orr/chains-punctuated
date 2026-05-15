@@ -1,0 +1,65 @@
+client_id,ethnic_group,gender,marital_status,children,business_type,monthly_sales,language
+G1.C1,Temne,Male,Married,6,Petty Trading,1.25,Temne
+G1.C2,Temne,Female,Widowed,5,Petty Trading,1,Temne
+G2.C3,Mende,Female,Married,3,Petty Trading,.89999998,Krio
+G2.C4,Loko,Female,Married,2,Soap,.80000001,Krio
+G3.C5,Temne,Female,Married,2,Palm Oil,.89999998,Temne
+G4.C6,Fullah,Female,Married,1,Petty Trading,.80000001,Krio
+G4.C7,Temne,Female,Married,1,Petty Trading,.89999998,Temne
+G5.C8,Temne,Female,Married,4,Petty Trading,.80000001,Temne
+G6.C9,Susu,Female,Married,1,Food,1,Krio
+G6.C10,Mende,Female,Married,3,Petty Trading,1,Krio
+G7.C11,Fullah,Female,Married,4,Petty Trading,.25,Krio
+G8.C12,Temne,Female,Married,4,Petty Trading,.88,Temne
+G8.C13,Temne,Female,Married,2,Palm Oil,1.15,Temne
+G8.C14,Mende,Female,Married,1,Petty Trading,1,Krio
+G8.C15,Temne,Female,Married,2,Petty Trading,.89999998,Temne
+G9.C16,Temne,Female,Married,6,Petty Trading,1.25,Temne
+G9.C17,Temne,Female,Married,6,Petty Trading,1.3,Temne
+G10.C18,Temne,Female,Married,4,Petty Trading,1.5,Temne
+G10.C19,Temne,Female,Married,3,Petty Trading,.85000002,Temne
+G11.C20,Loko,Female,Married,5,Petty Trading,.30000001,Krio
+G12.C21,Temne,Female,Married,1,Petty Trading,.15000001,Temne
+G12.C22,Temne,Female,Married,3,Petty Trading,.40000001,Temne
+G13.C23,Susu,Male,Married,6,Petty Trading,2,Krio
+G13.C24,Temne,Female,Married,3,Petty Trading,.68000001,Temne
+G13.C25,Mende,Female,Married,4,Petty Trading,.15000001,Krio
+G14.C26,Mandingo,Female,Married,2,Petty Trading,1.2,Temne
+G14.C27,Temne,Female,Married,6,Petty Trading,.69999999,Krio
+G14.C28,Mende,Female,Married,3,Petty Trading,.2,Krio
+G15.C29,Temne,Female,Married,2,Petty Trading,.2,Temne
+G15.C30,Temne,Female,Married,3,Petty Trading,1.3,Temne
+G16.C31,Temne,Female,Married,3,Petty Trading,.80000001,Temne
+G16.C32,Temne,Female,Married,4,Petty Trading,.80000001,Krio
+G16.C33,Temne,Female,Married,4,Petty Trading,1,Temne
+G17.C34,Temne,Female,Married,2,Petty Trading,.89999998,Temne
+G17.C35,Temne,Female,Married,3,Food,.94999999,Temne
+G18.C36,Temne,Female,Married,3,Petty Trading,.89999998,Temne
+G18.C37,Temne,Female,Married,3,Petty Trading,.80000001,Temne
+G19.C38,Loko,Female,Married,1,Food,.75999999,Temne
+G20.C39,Temne,Female,Married,2,Petty Trading,.94999999,Temne
+G20.C40,Loko,Female,Married,3,Petty Trading,.94999999,Krio
+G21.C41,Sherbro,Female,Married,4,Petty Trading,.40000001,Krio
+G21.C42,Mende,Male,Married,4,Clothing,.30000001,Krio
+G22.C43,Temne,Female,Married,2,Petty Trading,.89999998,Krio
+G22.C44,Loko,Male,Married,2,Petty Trading,1,Krio
+G22.C45,Temne,Female,Widowed,2,Petty Trading,.80000001,Temne
+G23.C46,Temne,Female,Married,3,Petty Trading,1,Temne
+G23.C47,Susu,Female,Married,5,Petty Trading,.89999998,Krio
+G24.C48,Temne,Female,Married,4,Food,1.05,Temne
+G24.C49,Temne,Female,Married,2,Palm Oil,.94999999,Temne
+G25.C50,Temne,Female,Married,3,Petty Trading,1.5,Temne
+G25.C51,Temne,Female,Married,3,Petty Trading,1.35,Temne
+G26.C52,Susu,Female,Married,2,Petty Trading,.64999998,Temne
+G26.C53,Temne,Male,Married,3,Petty Trading,1.5,Temne
+G27.C54,Limba,Female,Married,2,Petty Trading,.5,Temne
+G28.C55,Temne,Female,Married,5,Firewood,.5,Temne
+G29.C56,Temne,Female,Married,5,Petty Trading,1,Temne
+G30.C57,Temne,Female,Married,3,Petty Trading,1.2,Temne
+G31.C58,Yalunka,Female,Married,2,Petty Trading,.85000002,Krio
+G32.C59,Temne,Female,Married,4,Food,1,Temne
+G33.C60,Limba,Female,Married,6,Petty Trading,1.3,Krio
+G33.C61,Temne,Female,Widowed,7,Petty Trading,.60000002,Temne
+G34.C62,Temne,Female,Married,3,Petty Trading,1,Krio
+G34.C63,Temne,Female,Married,1,Petty Trading,.44999999,Temne
+G35.C64,Temne,Female,Married,5,Petty Trading,1.2,Temne

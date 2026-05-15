@@ -1,0 +1,112 @@
+{smcl}
+{txt}{sf}{ul off}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/davs/Dropbox/New_hard_drive/Documents/Research/evolution_cooperation/analysis/_nature_cond_accept/__for_publication/_replication_materials//results/print_table_s5.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 7 Mar 2026, 06:05:22
+{txt}
+{com}. //_1
+. display %9.3f m1[1,1]
+{res}   -0.375
+{txt}
+{com}. //_2
+. display %9.3f m2[1,1]
+{res}   -0.357
+{txt}
+{com}. //_3
+. display %9.3f m3[1,1]
+{res}   -2.423
+{txt}
+{com}. //_4
+. display %9.3f m4[1,1]
+{res}   -5.326
+{txt}
+{com}. //_5
+. display %9.3f m1[2,1]
+{res}    0.613
+{txt}
+{com}. //_6
+. display %9.3f m2[2,1]
+{res}    0.329
+{txt}
+{com}. //_7
+. display %9.3f m3[2,1]
+{res}    1.275
+{txt}
+{com}. //_8
+. display %9.3f m4[2,1]
+{res}    1.404
+{txt}
+{com}. //_9
+. display %9.4f pv1_1
+{res}p=0.5410
+{txt}
+{com}. //_10
+. display %9.4f pv2_1
+{res}p=0.2795
+{txt}
+{com}. //_11
+. display %9.4f pv3_1
+{res}p=0.0576
+{txt}
+{com}. //_12
+. display %9.4f pv4_1
+{res}p=0.0002
+{txt}
+{com}. //_13
+. display %12.0gc ng1
+{res}       1,589
+{txt}
+{com}. //_14
+. display %12.0gc ng2
+{res}         197
+{txt}
+{com}. //_15
+. display %12.0gc ng3
+{res}       1,589
+{txt}
+{com}. //_16
+. display %12.0gc ng4
+{res}         197
+{txt}
+{com}. //_17
+. display %12.0gc n1
+{res}       4,015
+{txt}
+{com}. //_18
+. display %12.0gc n2
+{res}         985
+{txt}
+{com}. //_19
+. display %12.0gc n3
+{res}       4,015
+{txt}
+{com}. //_20
+. display %12.0gc n4
+{res}         985
+{txt}
+{com}. //_21
+. display %9.4f rsq1
+{res}   0.3716
+{txt}
+{com}. //_22
+. display %9.4f rsq2
+{res}   0.2186
+{txt}
+{com}. //_23
+. display %9.4f rsq3
+{res}   0.5089
+{txt}
+{com}. //_24
+. display %9.4f rsq4
+{res}   0.3257
+{txt}
+{com}. //_^
+. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/Users/davs/Dropbox/New_hard_drive/Documents/Research/evolution_cooperation/analysis/_nature_cond_accept/__for_publication/_replication_materials//results/print_table_s5.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res} 7 Mar 2026, 06:05:22
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
