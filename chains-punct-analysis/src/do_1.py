@@ -127,7 +127,8 @@ for outcome in outcomes:
 '''EXPLORE'''
 df.contrate[0:100].plot()
 x = pd.crosstab(df.groupid,df.groupsize)
-
+#DYAD GROUP IDS
+x[x[x.columns[0]]>0]
 
 '''HACK WARNING'''
 #ALL GROUPS MEAN RATES
