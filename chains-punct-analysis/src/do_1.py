@@ -130,6 +130,8 @@ x = pd.crosstab(df.groupid,df.groupsize)
 #DYAD GROUP IDS
 x[x[x.columns[0]]>0]
 
+x[x[x.columns[2]]>0]
+
 '''HACK WARNING'''
 #ALL GROUPS MEAN RATES
 means_per_group_effort_rate = out.groupby('groupid')['outcome'].mean()
